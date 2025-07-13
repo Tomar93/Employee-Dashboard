@@ -3,8 +3,6 @@ A full-stack employee dashboard built using React, Vite, and Tailwind CSS. This 
 
 📦 Project Structure
 pgsql
-Copy
-Edit
 ├── client/                # React frontend powered by Vite
 │   ├── src/               # React app components & page logic
 │   ├── public/            # Static assets
@@ -17,7 +15,7 @@ Edit
 ├── tsconfig.json          # TypeScript configuration
 ├── package.json
 └── README.md
-⚙️ Features
+
 Clean UI built with React and Tailwind CSS
 
 Fast build and hot-reloading using Vite
